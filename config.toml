@@ -1,0 +1,13 @@
+baseURL = 'https://thoughtp0lice.github.io/my_blog'
+languageCode = 'en-us'
+title = "Han's Blog"
+theme = "archie"
+
+[params]
+	mode="light"
+	useCDN=false
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
