@@ -1,6 +1,6 @@
 baseURL = 'https://thoughtp0lice.github.io/my_blog'
 languageCode = 'en-us'
-title = "Han and the thought_p0lice"
+title = "Han and the Telescreen"
 theme = "archie"
 
 [params]
