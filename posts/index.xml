@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Han and the Telescreen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Aug 2022 14:54:46 -0700</lastBuildDate><atom:link href="https://thoughtp0lice.github.io/my_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Sep 2022 23:54:12 -0700</lastBuildDate><atom:link href="https://thoughtp0lice.github.io/my_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Great American Joke</title>
+      <link>https://thoughtp0lice.github.io/my_blog/posts/public_intellectual/</link>
+      <pubDate>Sat, 17 Sep 2022 23:54:12 -0700</pubDate>
+      
+      <guid>https://thoughtp0lice.github.io/my_blog/posts/public_intellectual/</guid>
+      <description>Since the 70s, the American public&amp;rsquo;s confidence in news media and the government has been on a steady decline. It&amp;rsquo;s almost natural that something like The Daily Show (TDS) would come out of this time of distrust to ridicule these rotting institutions. In the beginning when TDS just premiered at Comedy Central, it was a simple comedy show that uses news format only as a framing for the jokes. After the original host Craig Kilborn left the show in 1998, Comedy Central found Jon Stewart, at the time a leather-jacketed Gen X wisecracker famous for his hip MTV talk show, to take over.</description>
+    </item>
+    
     <item>
       <title>Test Post</title>
       <link>https://thoughtp0lice.github.io/my_blog/posts/test-post/</link>
@@ -14,15 +23,6 @@
       
       <guid>https://thoughtp0lice.github.io/my_blog/posts/test-post/</guid>
       <description>Hello world</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://thoughtp0lice.github.io/my_blog/posts/public_intellectual/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thoughtp0lice.github.io/my_blog/posts/public_intellectual/</guid>
-      <description>The Great American Joke Since the 70s, the American public&amp;rsquo;s confidence in news media and the government has been on a steady decline. It&amp;rsquo;s almost natural that something like The Daily Show (TDS) would come out of this time of distrust to ridicule these rotting institutions. In the beginning when TDS just premiered at Comedy Central, it was a simple comedy show that uses news format only as a framing for the jokes.</description>
     </item>
     
   </channel>
