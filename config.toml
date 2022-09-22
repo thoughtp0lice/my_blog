@@ -11,3 +11,8 @@ theme = "archie"
 name = "About"
 url = "/about"
 weight = 3
+
+[[menu.main]]
+name = "Round Table"
+url = "/round_table"
+weight = 3
