@@ -4,59 +4,59 @@ title: "Round Table"
 
 - **Leeor Abutbul**
     
-    [Blog | Thoughts By Leeor](abutbul.wixsite.com)
+    [Blog | Thoughts By Leeor](https://abutbul.wixsite.com/thoughts-by-leeor/blog)
 
 - **Tayla Akpinar**
 
-    [Home | Mymainstreamaudience](akpinar73.wixsite.com)
+    [Home | Mymainstreamaudience](https://akpinar73.wixsite.com/mymainstreamaudience)
 
 - **Diego Argueta**
 
-    [Home | Western Sustainabili](daarguet.wixsite.com)
+    [Home | Western Sustainabili](https://daarguet.wixsite.com/wsmachine)
 
 - **Brandon Arana**
 
-    [Home | Brandon S Beats](brandon07celtics.wixsite.com)
+    [Home | Brandon S Beats](https://brandon07celtics.wixsite.com/brandon-s-beats)
 
 - **Andy Cruz**
 
-    [Home | Andysblog](trandycruz.wixsite.com)
+    [Home | Andysblog](https://trandycruz.wixsite.com/andysblog)
 
 - **Shina Devon**
 
-    [Blog | Brick In The Wall](sdevon8.wixsite.com)
+    [Blog | Brick In The Wall](https://sdevon8.wixsite.com)
 
 - **Sebastian Dominguez**
 
-    [HOME | Bash S Take](sebastiandom123.wixsite.com)
+    [HOME | Bash S Take](https://sebastiandom123.wixsite.com)
 
 - **Ali Ferhani**
 
-    [Home | Buddy I M Pissed](ferhani.wixsite.com)
+    [Home | Buddy I M Pissed](https://ferhani.wixsite.com)
 
 - **Stevie Garcia**
 
-    [Home | The Neighborhood Hop](steviega.wixsite.com)
+    [Home | The Neighborhood Hop](https://steviega.wixsite.com)
 
 - **Rose Gasser**
 
-    [Blog | goodwrites](gdwriter.wixsite.com)
+    [Blog | goodwrites](https://gdwriter.wixsite.com)
 
 - **Kamaria Green**
 
-    [MyReject] (wordpress.com)
+    [MyReject](https://myreject.wordpress.com/)
 
 - **Armani Jones-Sailor**
 
-    [Home | Armani](aj51703.wixsite.com)
+    [Home | Armani](https://aj51703.wixsite.com)
 
 - **Madison Melito**
 
-    [About | Madison Melito](melito2.wixsite.com)
+    [About | Madison Melito](https://melito2.wixsite.com)
 
 - **Nick Nieva**
 
-    [Home | Semper Sincerus](ngnieva01.wixsite.com)
+    [Home | Semper Sincerus](https://ngnieva01.wixsite.com)
 
 - **Margarite Scotti**
 
@@ -72,9 +72,9 @@ title: "Round Table"
 
 - **Charlotte Zovighian**
 
-    [Home | Charlotte S Wholesom](zovighia.wixsite.com)
+    [Home | Charlotte S Wholesom](https://zovighia.wixsite.com)
 
 - H**an Zhong**
 
-    [Han and the Telescreen | Home](thoughtp0lice.github.io)
+    [Han and the Telescreen | Home](https://thoughtp0lice.github.io)
 
