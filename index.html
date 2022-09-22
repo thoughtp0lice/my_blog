@@ -15,13 +15,16 @@
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Han and the Telescreen"/>
 <meta name="twitter:description" content=""/>
-
+<script src="https://thoughtp0lice.github.io/my_blogjs/feather.min.js"></script>
+	
 	
         <link href="https://thoughtp0lice.github.io/my_blog/css/fonts.2c2227b81b1970a03e760aa2e6121cd01f87c88586803cbb282aa224720a765f.css" rel="stylesheet">
 	
 
 	
 	<link rel="stylesheet" type="text/css" media="screen" href="https://thoughtp0lice.github.io/my_blog/css/main.ac08a4c9714baa859217f92f051deb58df2938ec352b506df655005dcaf98cc0.css" />
+		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="https://thoughtp0lice.github.io/my_blog/css/dark.726cd11ca6eb7c4f7d48eb420354f814e5c1b94281aaf8fd0511c1319f7f78a4.css"  disabled />
+	
 	
 	
 </head>
@@ -38,6 +41,8 @@
 		
 		<a href="/my_blog/round_table">Round Table</a>
 		
+		| <a id="dark-mode-toggle" onclick="toggleTheme()" href=""></a>
+		<script src="https://thoughtp0lice.github.io/my_blogjs/themetoggle.js"></script>
 		
 	</nav>
 </header>
@@ -75,7 +80,8 @@
 
 			</main>
 			<footer>
-  <div style="display:flex"></div>
+  <div style="display:flex"><a class="soc" href="https://github.com/thoughtp0lice" title="GitHub"><i data-feather="github"></i></a>
+    <a class="border"></a></div>
   <div class="footer-info">
     2022  <a
       href="https://github.com/athul/archie">Archie Theme</a> | Built with <a href="https://gohugo.io">Hugo</a>
@@ -83,7 +89,9 @@
 </footer>
 
 
-
+<script>
+  feather.replace()
+</script>
 		</div>
 		
 	</body>
