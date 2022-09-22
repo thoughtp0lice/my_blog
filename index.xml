@@ -26,12 +26,43 @@
     </item>
     
     <item>
-      <title></title>
+      <title>About</title>
       <link>https://thoughtp0lice.github.io/my_blog/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://thoughtp0lice.github.io/my_blog/about/</guid>
-      <description>this is my blog</description>
+      <description>This is my blog
+Send comments to my email at: linghanz@usc.edu</description>
+    </item>
+    
+    <item>
+      <title>Round Table</title>
+      <link>https://thoughtp0lice.github.io/my_blog/round_table/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thoughtp0lice.github.io/my_blog/round_table/</guid>
+      <description>Leeor Abutbul
+Blog | Thoughts By Leeor
+Tayla Akpinar
+Home | Mymainstreamaudience
+Diego Argueta
+Home | Western Sustainabili
+Brandon Arana
+Home | Brandon S Beats
+Andy Cruz
+Home | Andysblog
+Shina Devon
+Blog | Brick In The Wall
+Sebastian Dominguez
+HOME | Bash S Take
+Ali Ferhani
+Home | Buddy I M Pissed
+Stevie Garcia
+Home | The Neighborhood Hop
+Rose Gasser
+Blog | goodwrites
+Kamaria Green
+[MyReject] (wordpress.com)</description>
     </item>
     
   </channel>
