@@ -4,8 +4,13 @@ title = "Han and the Telescreen"
 theme = "archie"
 
 [params]
-	mode="light"
+	mode="toggle"
 	useCDN=false
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/thoughtp0lice"
 
 [[menu.main]]
 name = "About"

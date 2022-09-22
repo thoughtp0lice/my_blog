@@ -74,7 +74,6 @@ title: "Round Table"
 
     [Home | Charlotte S Wholesom](https://zovighia.wixsite.com)
 
-- H**an Zhong**
+- **Han Zhong**
 
-    [Han and the Telescreen | Home](https://thoughtp0lice.github.io)
-
+    [Han and the Telescreen | Home](https://thoughtp0lice.github.io/my_blog/)
