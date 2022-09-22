@@ -6,6 +6,7 @@ theme = "archie"
 [params]
 	mode="toggle"
 	useCDN=false
+	subtitle = "Literally 1984" 
 
 [[params.social]]
 name = "GitHub"
