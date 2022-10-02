@@ -1,8 +1,12 @@
 ---
 title: "AI is coming to get you ... but not in the way you think"
 date: 2022-10-01T00:01:12-07:00
-draft: true
+draft: false
 ---
+
+{{< figure src="https://filmthreat.com/wp-content/uploads/2018/09/GAMES-Terminator2-00.jpg" >}}
+
+
 
 In the 2017 documentary [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y), the AI researchers at DeepMind complained that, the news media often associate their ground breaking AI Go player with killer robots like the Terminator. They think this association contributes to the public's irrational fear of their work on artificial intelligence. Their frustration is very understandable since DeepMind's AlphaGo couldn't be more different from the Terminator. For starters, AlphaGo doesn't look like Arnold Schwarzenegger and couldn't turn itself into liquid metal. Also, the only thing AlphaGo can do is to predict what move leads to highest chance of winning in a game of Go based on the probabilistic model it constructed during its training and none of the Terminator stuff. It couldn't even say "I'll be back" at the end of the game. 
 
