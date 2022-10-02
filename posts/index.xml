@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Han</copyright>
-    <lastBuildDate>Sat, 24 Sep 2022 04:48:41 -0700</lastBuildDate><atom:link href="https://thoughtp0lice.github.io/my_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Oct 2022 00:01:12 -0700</lastBuildDate><atom:link href="https://thoughtp0lice.github.io/my_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI is coming to get you ... but not in the way you think</title>
+      <link>https://thoughtp0lice.github.io/my_blog/posts/ai/</link>
+      <pubDate>Sat, 01 Oct 2022 00:01:12 -0700</pubDate>
+      
+      <guid>https://thoughtp0lice.github.io/my_blog/posts/ai/</guid>
+      <description>In the 2017 documentary AlphaGo, the AI researchers at DeepMind complained that, the news media often associate their ground breaking AI Go player with killer robots like the Terminator. They think this association contributes to the public&amp;rsquo;s irrational fear of their work on artificial intelligence. Their frustration is very understandable since DeepMind&amp;rsquo;s AlphaGo couldn&amp;rsquo;t be more different from the Terminator. For starters, AlphaGo doesn&amp;rsquo;t look like Arnold Schwarzenegger and couldn&amp;rsquo;t turn itself into liquid metal.</description>
+    </item>
+    
     <item>
       <title>Have you tried turning the internet on and off again?</title>
       <link>https://thoughtp0lice.github.io/my_blog/posts/internet/</link>
