@@ -24,7 +24,7 @@ title: "Round Table"
 
 - **Shina Devon**
 
-    [Blog | Brick In The Wall](https://sdevon8.wixsite.com)
+    [Blog | Brick In The Wall](https://sdevon8.wixsite.com/brick-in-the-wall/blog)
 
 - **Sebastian Dominguez**
 
