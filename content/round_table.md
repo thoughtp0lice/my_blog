@@ -28,19 +28,19 @@ title: "Round Table"
 
 - **Sebastian Dominguez**
 
-    [HOME | Bash S Take](https://sebastiandom123.wixsite.com)
+    [HOME | Bash S Take](https://sebastiandom123.wixsite.com/bash-s-take)
 
 - **Ali Ferhani**
 
-    [Home | Buddy I M Pissed](https://ferhani.wixsite.com)
+    [Home | Buddy I M Pissed](https://ferhani.wixsite.com/buddy-i-m-pissed)
 
 - **Stevie Garcia**
 
-    [Home | The Neighborhood Hop](https://steviega.wixsite.com)
+    [Home | The Neighborhood Hop](https://steviega.wixsite.com/the-neighborhood-hop)
 
 - **Rose Gasser**
 
-    [Blog | goodwrites](https://gdwriter.wixsite.com)
+    [Blog | goodwrites](https://gdwriter.wixsite.com/goodwrites/blog)
 
 - **Kamaria Green**
 
@@ -48,15 +48,15 @@ title: "Round Table"
 
 - **Armani Jones-Sailor**
 
-    [Home | Armani](https://aj51703.wixsite.com)
+    [Home | Armani](https://aj51703.wixsite.com/redpillnarrative)
 
 - **Madison Melito**
 
-    [About | Madison Melito](https://melito2.wixsite.com)
+    [About | Madison Melito](https://melito2.wixsite.com/lifestyledesigner/blank-1)
 
 - **Nick Nieva**
 
-    [Home | Semper Sincerus](https://ngnieva01.wixsite.com)
+    [Home | Semper Sincerus](https://ngnieva01.wixsite.com/semper-sincerus)
 
 - **Margarite Scotti**
 
@@ -72,7 +72,7 @@ title: "Round Table"
 
 - **Charlotte Zovighian**
 
-    [Home | Charlotte S Wholesom](https://zovighia.wixsite.com)
+    [Home | Charlotte S Wholesom](https://zovighia.wixsite.com/charlotte-s-wholesom)
 
 - **Han Zhong**
 
