@@ -1,7 +1,7 @@
 ---
 title: "To Kill a Tweeting Bird"
 date: 2022-11-12T22:38:10-08:00
-draft: true
+draft: False
 ---
 
 In a meeting this Wednesday, Elon Musk, the new owner of twitter and self-declared “free speech absolutist”, told the advertisers he wanted Twitter to “be a force that moves civilization in a positive direction.” It seems that Must still wants people to believe he is the messiah that would save twitter and maybe the internet by bringing back free speech. In reality, he is becoming one of the largest threats to free speech on the internet.
