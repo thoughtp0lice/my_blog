@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = "Han and the Telescreen"
 theme = "archie"
 copyright = "© Han"
+disqusShortname = "thought-police"
 
 # Code Highlight
 pygmentsstyle = "monokai"
